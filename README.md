@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Daniel Amadi
 #### Cloud and Devops Engineering
-I'm Daniel from Nigeria and I'm a Cloud Engineer.I deploy and automate various software projects of MEAN,MERN, LAMP and LEMP stacks. I proffer data-driven solutions to businesses.
+I'm Daniel from Nigeria and I'm a Cloud Engineer.I deploy and automate various software projects of MEAN, MERN, LAMP and LEMP stacks. I proffer data-driven solutions to businesses.
 
 Skills: AWS, Azure, Ansible, Terraform, Linux, Docker
 
