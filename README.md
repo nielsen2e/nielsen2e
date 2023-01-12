@@ -1,13 +1,13 @@
 ### Hi there 👋, I'm Daniel Amadi
-#### Data Analytics and Engineering
-I'm Daniel from Nigeria and I'm a Data analyst.I create dashboards and visualizations with the help of SQL to proffer data-driven solutions to businesses.
+#### Cloud and Devops Engineering
+I'm Daniel from Nigeria and I'm a Cloud Engineer.I deploy and automate various software projects of MEAN,MERN, LAMP and LEMP stacks. I proffer data-driven solutions to businesses.
 
-Skills: SQL / Tableau / Excel / Python
+Skills: AWS, Azure, Ansible, Terraform, Linux, Docker
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Power Bi and DAX 
-- 👯 I’m looking to collaborate on Data analytics projects 
-- 🤔 I’m looking for help with internships and opportunities in data analytics and engineering projects  
+- 🌱 I’m currently learning Cloud Computing 
+- 👯 I’m looking to collaborate on Cloud Engineering projects 
+- 🤔 I’m looking for help with internships and opportunities in cloud engineering projects  
 - 📫 How to reach me: danielamadi000@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Loves football and basketball 
